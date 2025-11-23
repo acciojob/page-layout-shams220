@@ -7,7 +7,7 @@ export default PageLayout = () => {
       </header>
       <p>This is the content of my website</p>
       <footer>
-        <p>2023 My Website. All rights reserved.</p>
+        <p>© 2023 My Website. All rights reserved.</p>
       </footer>
     </div>
   );
